@@ -1,2 +1,2 @@
 # lab-graphql
-Praticando GraphQL
+Praticando GraphQL + Express
